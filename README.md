@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
 🔭 I’m currently studying MBA in Big Data Analytics ...
+
+
 🌱 I’m currently learning Natural Language Processing
 <!--
 **manjusatyan/manjusatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
